@@ -7,5 +7,5 @@ This is a simple project based on "Browser Management".   It is created for acad
 - Beginner-friendly project setup
 
 ## 🛠️ Technologies Used
-- Programming Language: C / C++ / Java / Python (choose your actual one)  
+- Programming Language: C   
 - Git & GitHub for version control  
